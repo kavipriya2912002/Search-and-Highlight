@@ -1,0 +1,1 @@
+It is a simple application using HTML, CSS and JavaScript to search and Highlight the particular word in the given paragraph.
